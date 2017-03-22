@@ -1,0 +1,37 @@
+[
+  {
+    "nameLast": "Last Name",
+    "nameFirst": "First Name",
+    "skype": "Skype"
+  },
+  {
+    "user": "first.last1",
+    "nameLast": "First",
+    "nameFirst": "Last1",
+    "skype": "skypeusername1"
+  },
+  {
+    "user": "first.last2",
+    "nameLast": "First",
+    "nameFirst": "Last2",
+    "skype": " "
+  },
+  {
+    "user": "first.last3",
+    "nameLast": "First",
+    "nameFirst": "Last3",
+    "skype": "skypeusername3"
+  },
+  {
+    "user": "first.last4",
+    "nameLast": "First",
+    "nameFirst": "Last4",
+    "skype": "skypeusername4"
+  },
+  {
+    "user": "first.last5",
+    "nameLast": "First",
+    "nameFirst": "Last5",
+    "skype": "skypeusername5"
+  }
+]

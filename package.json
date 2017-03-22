@@ -1,0 +1,21 @@
+{
+  "name": "node-skype-jenkins-notifier",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "bunyan": "^1.8.1",
+    "lodash": "^4.11.1",
+    "memory-cache": "^0.1.5",
+    "request-promise": "^3.0.0",
+    "skyweb": "git://github.com/d10n/skyweb.git#hotfix/preserve-old-api",
+    "twilio": "^2.9.1"
+  },
+  "devDependencies": {}
+}
